@@ -1,0 +1,13 @@
+body{background-position: center 0px;
+    background-color: #202020;
+      color: white;
+   font-family: kashmir ; 
+   font-size: 200px;
+   text-align: center;
+     border: 5px solid yellow;
+ }
+p1{ font-family: Verdana  ; 
+  font-size: 20px;
+  text-align: left;
+
+}
