@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html lang="EN-US">
-    <head>Led-Zeppelin</head>
-    <title>Led Zeppelin/news</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <body>
-        <p><img src="images/ledzep1.jpg" alt="Led Zeppellin 1"width="500px" height="500px"></p>
-    </body>
-</html>
