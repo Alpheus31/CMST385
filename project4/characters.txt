@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html lang="EN-US">
+    <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+        <title>Characters</title>
+    
+    <body>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <div class="topnav">
+          <a href="index.html">Home</a>
+          <a href="Characters.html">Characters</a>
+          <a href="about.html">About</a>
+                    <a href="contact.html">Contact</a>
+        </div> 
+      </div>  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+      <a href="https://www.facebook.com/Sin-Eater-Comics-111284033948920" class="fa fa-facebook"></a>
+      <a href="https://www.instagram.com/zensate23/" class="fa fa-instagram"></a>
+      
+        
+        <h1>Characters</h1>
+        
+        
+        <main>
+           
+            <article>
+                <h3>Gin</h3>
+                <hr class="hr1">
+            <img src="images/gin.jpg" alt="Gin"> 
+            <figcaption>Fig.1 - Gim Character Sheet.</figcaption> <br>
+            <p>Gin is the last member of the Tamura clan. Little is known about her past.
+                <br> Her clan was responsible for the security of a very important artifact.br Her clan was wiped out and the artifact was lost. Her weapon of choice is a katana. </p> 
+        </article>
+            <article>
+              <h3>Marcus</h3>
+              <hr class="hr1">
+              <img src="images/marcus color cut.jpg" alt="Marcus">
+              <figcaption>Fig.2 - Marcus Character Sheet.</figcaption>
+              <p>Marcus is of roman birth. He has served as both Caesar and has also been a pauper. <br> 
+                Marcus is of the Greed clan. They have made their home in Pennsylvania. <br>
+                 He has become disillusioned with the way the clan does business and have fallen out <br> 
+                of favor with his father. Marcus prefers the roman gladius.</p>
+            </article>
+          
+            <article>
+              <h3>Anne</h3>
+              <hr class="hr1">
+              <img src="images/anne.jpg" alt="Anne">
+              <figcaption>Fig.3 - Cover A book 2.</figcaption>
+              <p>Anne is a mystery. She is currently in New Oreleans where she has Gin and Marcus held captive. <br>
+            She is in the employ of the Mistress of Lust.</p>
+            </article>
+           <p>For questions             <a href="mailto:jsimmons102000@yahoo.com">Send Email</a>
+           </p>
+            
+          </main>
+          <footer>Courtesy of Sin Eater Comics</footer>  
+          </body>
+          </html>
+                 
+                          
+                             
